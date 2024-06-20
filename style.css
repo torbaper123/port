@@ -1,0 +1,15 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+.hassan{
+    color: orange;
+}
+.ali{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.ali img{
+    width: 100%;
+}

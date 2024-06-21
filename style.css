@@ -1,5 +1,10 @@
 body{
     font-family: "Poppins", sans-serif;
+    margin: 0px;
+    background-image: linear-gradient(150deg,rgb(216, 113, 241),rgb(87, 42, 209));
+}
+h1{
+    
 }
 .hassan{
     color: orange;
@@ -12,4 +17,78 @@ body{
 }
 .ali img{
     width: 100%;
+}
+.haan{
+     
+    background-image: url("im/ep.png");
+    background-position:top left;
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+} 
+#idds{
+    color: rgb(170, 20, 20);
+    font-weight: 700;
+}
+#oos{
+    color: rgb(117, 67, 67);
+    font-size: 50px;
+}
+#os{
+    color: rgb(214, 109, 11);
+    font-weight: 700;
+}
+#htt{
+    color: rgba(241, 116, 32, 0.938);
+    font-size: 45px;
+} 
+.lin{
+    text-decoration: none;
+    background-image: linear-gradient(405deg,rgb(245, 169, 139),rgb(238, 77, 48));
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+h2{
+    font-size: 40px;
+}
+.nahid{
+background-image: url("im/ddh.png");
+background-repeat: no-repeat;
+background-position: right;
+}
+#Dream{
+    color: orange;
+}
+#web{
+    color: rgba(241, 102, 10, 0.685);
+    font-size: 60px;
+}
+#devo{
+    color: rgb(230, 125, 64);
+}
+h3{
+    color: rgb(228, 117, 13);
+    font-weight: 700;
+}
+#ot{
+    color: white;
+    font-weight: 700;
+}
+.line{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(208, 126, 216),rgb(101, 53, 212));
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+
+}
+#too{
+    font-weight: 500;
+    font-size: 100px;
+    color: rgb(245, 83, 7);
 }

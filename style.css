@@ -3,9 +3,6 @@ body{
     margin: 0px;
     background-image: linear-gradient(250deg,rgb(216, 113, 241),rgb(87, 42, 209));
 }
-h1{
-    
-}
 .hassan{
     color: orange;
 }
@@ -20,7 +17,7 @@ h1{
 }
 .haan{
      
-    background-image: url("im/ep.png");
+    background-image:  url("im/ep.png" ) ;
     background-position:top left;
     background-repeat: no-repeat;
 }
@@ -46,7 +43,7 @@ section{
 } 
 .lin{
     text-decoration: none;
-    background-image: linear-gradient(405deg,rgb(245, 169, 139),rgb(238, 77, 48));
+    background-image: linear-gradient(45deg,rgb(245, 169, 139),rgb(238, 77, 48));
     padding: 10px 20px;
     border-radius: 5px;
     font-weight: 700;
@@ -96,4 +93,38 @@ h3{
     background-image: url("im/ep.png");
     background-repeat: no-repeat;
     background-position:top left;
+    box-shadow: 10px 10px 40px gray;
+}
+ #tw{
+    font-size: 14px;
+ }
+ .single-h{
+    box-shadow: 10px 10px  60px rgb(5, 4, 4) ;
+    border-radius: 5px;
+    height: 80%;
+      
+ }
+ .foure{
+    background-image: url("im/ep.png");
+    background-repeat: no-repeat;
+    background-position:center   right;
+    
+ }
+ #igm{
+    box-shadow: 10px 10px 20px black;
+ }
+ #exper{
+    background-image: linear-gradient(45deg,rgb(231, 140, 105),rgb(224, 96, 73));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato) ;
+}
+footer{
+    text-align: center;
+    
 }

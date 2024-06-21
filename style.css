@@ -1,7 +1,7 @@
 body{
     font-family: "Poppins", sans-serif;
     margin: 0px;
-    background-image: linear-gradient(150deg,rgb(216, 113, 241),rgb(87, 42, 209));
+    background-image: linear-gradient(250deg,rgb(216, 113, 241),rgb(87, 42, 209));
 }
 h1{
     
@@ -33,7 +33,7 @@ section{
     font-weight: 700;
 }
 #oos{
-    color: rgb(117, 67, 67);
+    color: rgb(211, 124, 11);
     font-size: 50px;
 }
 #os{
@@ -72,7 +72,7 @@ background-position: right;
 }
 h3{
     color: rgb(228, 117, 13);
-    font-weight: 700;
+    font-weight: 900;
 }
 #ot{
     color: white;
@@ -90,5 +90,10 @@ h3{
 #too{
     font-weight: 500;
     font-size: 100px;
-    color: rgb(245, 83, 7);
+    color: rgb(245, 134, 7);
+}
+.three{
+    background-image: url("im/ep.png");
+    background-repeat: no-repeat;
+    background-position:top left;
 }
